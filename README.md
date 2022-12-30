@@ -1,2 +1,2 @@
-# fangkuairen2022.github.io
+# 方块人2022
 我的个人主页
